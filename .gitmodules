@@ -1,0 +1,6 @@
+[submodule "shared"]
+	path = shared
+	url = https://github.com/sh-sergey/mik32-shared
+[submodule "hal"]
+	path = hal
+	url = https://github.com/sh-sergey/mik32-hal
