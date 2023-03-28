@@ -11,6 +11,6 @@
   "homepage": "http://mik32.ru",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sh-sergey/framework-mik32v0-sdk.git"
+    "url": "https://github.com/MikronMIK32/framework-mik32v0-sdk.git"
   }
 }
