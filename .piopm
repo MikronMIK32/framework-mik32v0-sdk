@@ -1,1 +1,1 @@
-{"type": "tool", "name": "framework-mik32v0-sdk", "version": "0.2.0", "spec": {"owner": "platformio", "id": 1234, "name": "framework-mik32v0-sdk", "requirements": null, "url": null}}
+{"type": "tool", "name": "framework-mik32v0-sdk", "version": "0.2.1", "spec": {"owner": "platformio", "id": 1234, "name": "framework-mik32v0-sdk", "requirements": null, "url": null}}
